@@ -1,2 +1,5 @@
-android_device_sony_togari
 ==========================
+=======
+# device_sony_togari
+Sony Xperia Z Ultra
+
